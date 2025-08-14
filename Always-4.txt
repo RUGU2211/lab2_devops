@@ -1,0 +1,9 @@
+Hello,
+
+The build for project "FirstJob" has completed.
+
+Status: Successful
+Build URL: http://localhost:8080/job/FirstJob/4/
+
+Regards,
+Jenkins CI

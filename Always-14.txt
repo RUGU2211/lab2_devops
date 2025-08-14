@@ -1,0 +1,12 @@
+Hello,
+
+The Jenkins job "FirstJob" has completed.
+
+Status: Successful
+Build Number: 14
+Build URL: http://localhost:8080/job/FirstJob/14/
+Build Duration: ${BUILD_DURATION}
+Triggered By: Started by user admin
+
+Regards,
+Jenkins CI
