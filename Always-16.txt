@@ -1,3 +1,0 @@
-FirstJob - Build # 16 - Successful:
-
-Check console output at http://localhost:8080/job/FirstJob/16/ to view the results.
